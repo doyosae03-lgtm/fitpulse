@@ -1,0 +1,8 @@
+{
+  "name": "FitPulse - 스마트 운동 루틴 & 식단 기록",
+  "description": "오프라인 완벽 지원 스마트 운동 루틴 생성기, 실시간 세트 기록기, 휴식 타이머 및 식단 매크로 영양소 관리 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
